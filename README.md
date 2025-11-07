@@ -18,7 +18,7 @@
 
 - Почта: 4455667d@gmail.com
 - Телефон: +7 917 753-35-52
-- GitHub: Yakupova-Karina
+- GitHub: https://github.com/Yakupova-Karina
 
 ## Мои проекты
 
